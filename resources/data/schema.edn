@@ -1,0 +1,8 @@
+[
+ ;; Counter
+ {:db/id #db/id[:db.part/db]
+  :db/ident :counter/bar
+  :db/valueType :db.type/long
+  :db/cardinality :db.cardinality/one
+  :db/doc "Server state"
+  :db.install/_attribute :db.part/db}]

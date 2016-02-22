@@ -1,0 +1,2 @@
+[{:db/id #db/id[:db.part/user]
+  :counter/bar 0}]
