@@ -1,5 +1,5 @@
 # om-datascript-sente-datomic-playground
-Person integration for Om.next + Datascript + Sente + Datomic.
+Personal integration for Om.next + Datascript + Sente + Datomic.
 
 # How to fire up?
 
